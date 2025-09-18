@@ -1,1 +1,1 @@
-This repo is for [racticing purpose
+This repo is for practicing purpose
